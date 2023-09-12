@@ -1,0 +1,52 @@
+header{
+    text-align: center;
+    color: aliceblue;
+    padding: 70px;
+    background-image: url(../img/macbook-air-colorful-68q2y07b1wbhc45m.jpg);
+}
+nav{
+    background-color: black;
+    color: aliceblue;
+    padding: 30px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section{
+    float: left
+}
+section{
+   width: 400px;
+    padding: 50px;
+    text-align: center;
+    background-repeat: no-repeat;
+     background-size: cover;
+     background-image: url(../img/wallpaperflare.com_wallpaper\ \(1\).jpg) ;
+}
+.div{
+    float: left;
+    padding: 50px;
+    background-color: rgb(194, 31, 223);
+    width: 386px;
+    text-align: center;
+    
+}
+article{
+     float: left;
+    padding: 50px;
+    background-color: rgb(255, 0, 0);
+    width: 390px;
+    margin-right: 0px;
+}
+article::after {
+     display: table;
+     clear: both;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 150px;
+}
+
+
